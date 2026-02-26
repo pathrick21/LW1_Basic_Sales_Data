@@ -1,3 +1,5 @@
+GDRIVE SLIDES LW1 LINK: https://drive.google.com/drive/folders/1SO0d0oKD9NyHAHHQ-tdHmuZ35HIfq5Gn?usp=sharing
+
 PART 1: Launching Power BI & Loading Data
 Step 1: Open Power BI Desktop
 <img width="1701" height="826" alt="Step 1" src="https://github.com/user-attachments/assets/0fffa287-b9a5-4a3a-8790-737d54b555cd" />
