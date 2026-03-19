@@ -119,7 +119,7 @@ West is significantly higher ($59K) and North is significantly lower ($46K) — 
 ● What might explain that difference?
 Possible explanations: North may have less store presence, weaker marketing, lower customer demand, fewer product offerings, or stronger competition compared to West.
 
-
+[click here to view PDF](./IS107_CABUSAS_PATHRICK_Power_BI_Labratory_Work_Activity_1.pdf)
 
 
 
